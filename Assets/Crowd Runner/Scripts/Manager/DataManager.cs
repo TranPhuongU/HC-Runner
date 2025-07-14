@@ -47,4 +47,18 @@ public class DataManager : MonoBehaviour
 
         PlayerPrefs.SetInt("coins", coins);
     }
+
+    public int GetCoins()
+    {
+        return coins;
+    }
+
+    public void UseCoins(int amount)
+    {
+        coins -= amount;
+
+        UpdateCoinsTexts();
+
+        PlayerPrefs.SetInt("coins", coins);
+    }
 }
