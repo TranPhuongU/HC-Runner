@@ -24,15 +24,16 @@ Make sure you collect enough allies — or risk being overwhelmed before the goa
 ## 🖼️ Screenshots
 
 ### 🏁 Main Menu
-![image](<img width="1240" height="2772" alt="image" src="https://github.com/user-attachments/assets/2c869893-c29c-4704-8183-6382e3de3028" />
+![image](![z6804477045917_a60a36ce27fec0a7fe5f840682124553](https://github.com/user-attachments/assets/a18207da-0c92-423d-9b46-9ae0b9b7e19d)
 )
 
+
 ### ⚔️ Enemy Clash
-![image](<img width="1240" height="2772" alt="image" src="https://github.com/user-attachments/assets/edc5530e-63d4-4798-8e85-a8b4d1676133" />
+![image](![z6804477063212_4191c31cafec8297a1c4dee593ed9661](https://github.com/user-attachments/assets/67427df8-5788-4f35-a262-62a74ba17463)
 )
 
 ### 🎉 Shop
-![image](<img width="1240" height="2772" alt="image" src="https://github.com/user-attachments/assets/b95a70c7-8595-484c-81f4-676b13d0403f" />
+![image](![z6804477065897_4206573aeee4bd537a3aed93accdeb9e](https://github.com/user-attachments/assets/75e9ffbe-5fa1-4672-b81d-ebb82f9ec191)
 )
 
 ---
